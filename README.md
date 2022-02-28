@@ -1,2 +1,2 @@
 # ChessEngine implemented with python and pygame
-![chess](https://user-images.githubusercontent.com/82488869/155924786-f2a85fe8-242b-429c-bec3-328b09362eec.png)
+![chess (2)](https://user-images.githubusercontent.com/82488869/155924938-e657a5d2-32e3-4234-b93b-ff92e8535216.png)
